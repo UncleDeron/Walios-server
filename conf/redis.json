@@ -1,0 +1,9 @@
+{
+  "Host": "0.0.0.0",
+  "Port": 28373,
+  "Password": "916563@redis",
+  "DB": 1,
+  "MaxIdle": 16,
+  "MaxActive": 0,
+  "IdleTimeout": 300
+}

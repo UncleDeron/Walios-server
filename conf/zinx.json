@@ -1,0 +1,9 @@
+{
+    "Name":"frog-chat server",
+    "Host":"0.0.0.0",
+    "TcpPort":23746,
+    "MaxConn":100,
+    "WorkerPoolSize":10,
+    "LogDir": "./log",
+    "LogFile":"server.log"
+  }
